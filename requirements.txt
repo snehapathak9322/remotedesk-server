@@ -1,0 +1,7 @@
+flask
+pillow
+mss
+pynput
+opencv-python
+numpy
+pyautogui
